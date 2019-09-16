@@ -1,0 +1,13 @@
+{
+    "items": [
+        {"name": "skittles", "code": "A01", "price": 0.60, "quantity": 11},
+        {"name": "twix", "code": "A02", "price": 0.75, "quantity": 8},
+        {"name": "hershey's", "code": "A03", "price": 1.00, "quantity": 12},
+        {"name": "oreos", "code": "A04", "price": 0.75, "quantity": 5},
+        {"name": "crunch", "code": "B01", "price": 0.60, "quantity": 15},
+        {"name": "airheads", "code": "B02", "price": 0.75, "quantity": 0},
+        {"name": "m&ms", "code": "C01", "price": 1.00, "quantity": 10},
+        {"name": "kit-kat", "code": "D05", "price": 0.75, "quantity": 3}
+    ],
+    "money": 25.00 
+}
